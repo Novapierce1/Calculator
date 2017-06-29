@@ -1,0 +1,23 @@
+{
+  "name": "calculater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch":"less-watch-compiler"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novapierce1/Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novapierce1/Calculator/issues"
+  },
+  "homepage": "https://github.com/Novapierce1/Calculator#readme",
+  "dependencies": {
+    "less-watch-compiler": "latest"
+  }
+}
